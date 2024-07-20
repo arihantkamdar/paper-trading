@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    arihant:
+      email: arihantmkamdar@gmail.com
+      name: Arihant Kamdar
+      password: $2b$12$aVl0gMX1JdiuQ.kXdlFJF.cK51GKqSkq1Zbx4XJKHyVyDy4f6NkFO # To be replaced with hashed password #abc
+    quantdev:
+      email: Quant@gmail.com
+      name: Quant
+      password: $2b$12$1nSWo2qAvfJGbQPxSBXiJOc7/OFXjJl81Ct2Xbx3aHJ6WX2m8.gXu # To be replaced with hashed password # def
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
