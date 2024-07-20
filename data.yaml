@@ -1,7 +1,7 @@
 credentials:
   usernames:
     arihant:
-      email: arihantmkamdar@gmail.com
+      email: arihantquackquack@gmail.com
       name: Arihant Kamdar
       password: $2b$12$aVl0gMX1JdiuQ.kXdlFJF.cK51GKqSkq1Zbx4XJKHyVyDy4f6NkFO # To be replaced with hashed password #abc
     quantdev:
